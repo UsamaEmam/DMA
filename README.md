@@ -5,8 +5,8 @@ information from the system memory. Memory-to-memory transfer capability is also
 offers a wide variety of programmable control features to enhance data throughput and system optimization
 and to allow dynamic reconfiguration under program control.
 
-##TRANSFER TYPES
-*Memory-to-Memory transfers: that perform block moves of data from one memory address space to another
+## TRANSFER TYPES
+* Memory-to-Memory transfers: that perform block moves of data from one memory address space to another
 with a minimum of program effort and time, the 8237A includes a memory-to-memory transfer feature.
 * Write transfers: that move data from an I/O device to the memory.
 * Read transfers: that move data from memory to an I/O device.
